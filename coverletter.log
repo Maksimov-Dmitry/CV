@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 21.1) (preloaded format=xelatex 2021.2.12)  30 OCT 2021 15:44
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 21.1) (preloaded format=xelatex 2021.2.12)  12 JAN 2022 10:56
 entering extended mode
 **./coverletter.tex
 (coverletter.tex
@@ -1072,7 +1072,7 @@ Package rerunfilecheck Info: File `coverletter.out' has not changed.
 Here is how much of TeX's memory you used:
  31756 strings out of 412016
  616466 string characters out of 2844936
- 1087076 words of memory out of 3000000
+ 1087078 words of memory out of 3000000
  50979 multiletter control sequences out of 15000+200000
  406707 words of font info for 112 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
